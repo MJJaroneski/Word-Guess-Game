@@ -1,0 +1,20 @@
+body {
+    font-family: 'Lexend Deca', sans-serif;
+	background-image: url(https://media.giphy.com/media/jxLLvQcqWa56uq0h3L/giphy.gif);
+    background-repeat: repeat;
+}
+
+.wrapper {
+	color: #FEFEFE;
+	text-align: center;
+}
+
+
+#head{
+    margin: 20px;
+    text-align: center;
+}
+
+#answer{
+    font-size: 45px;
+}
